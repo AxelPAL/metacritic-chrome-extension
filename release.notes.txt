@@ -1,0 +1,1 @@
+1.0.5:Fixed parsing the updated layout of Metacritic + changing some colours1.0.4:Fixed first run with no options selected1.0.3:Updated designAdded options1.0.2:fixed permissions, now works on https sites.1.0.1:fixed the bug when the game name contains spaces.
