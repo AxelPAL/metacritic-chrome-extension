@@ -1,0 +1,31 @@
+body {
+    font-family: 'Playfair Display SC', serif;
+    font-size: 1.5em;
+}
+
+input {
+    float: left;
+}
+
+#content {
+    border-radius: 10px;
+    background-color: grey;
+    width: 300px;
+    padding: 16px 0 10px 15px;
+    color: white;
+    box-shadow: 3px 3px 12px black;
+    text-shadow: 1px 1px 1px black
+}
+
+#content p strong {
+    text-shadow: none;
+}
+
+div[id*="name"] {
+    cursor: pointer;
+}
+
+.options-wrapper {
+    float: none !important;
+    margin: 0 auto !important;
+}
