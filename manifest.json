@@ -10,6 +10,8 @@
       "matches": [ "\u003Call_urls>" ],
       "run_at": "document_start"
    } ],
+   "default_locale": "en",
+   "description": "__MSG_desc__",
    "icons": {
       "128": "128x128.png",
       "16": "16x16.png",
