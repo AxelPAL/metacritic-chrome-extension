@@ -21,7 +21,7 @@
    "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQD3Vq6WH29Ym/YRjnXmrEfpgM+AHL8u7ufit6lDef3iSGZeAZg99Qj3CQXLM0QVnawS1PUox9nlaJiE0fkY/66SbBKt9kQES2l2p737VI3/4C4GQoxYijkjIkG7mk22MELgc5eKxqR+kO2RjGaf/ovEkiaSlmwzjzKG5jveXUac1wIDAQAB",
    "manifest_version": 2,
    "name": "Metacritic",
-   "permissions": [ "tabs", "http://*/*", "https://*/*" ],
+   "permissions": [ "http://*/*", "https://*/*" ],
    "update_url": "http://clients2.google.com/service/update2/crx",
    "version": "1.1.0"
 }
