@@ -2,7 +2,7 @@
    "action": {
       "default_icon": "128x128.png",
       "default_popup": "main.html",
-      "default_title": "Get the metacritic score"
+      "default_title": "Get the MetaCritic score"
    },
    "content_scripts": [ {
       "all_frames": true,
@@ -20,6 +20,6 @@
       "48": "48x48.png"
    },
    "manifest_version": 3,
-   "name": "Metacritic",
-   "version": "1.1.1"
+   "name": "MetaCritic",
+   "version": "1.2.0"
 }
