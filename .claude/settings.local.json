@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "WebFetch(domain:www.metacritic.com)"
+      "WebFetch(domain:www.metacritic.com)",
+      "Bash(cat:*)"
     ],
     "deny": [],
     "ask": []
